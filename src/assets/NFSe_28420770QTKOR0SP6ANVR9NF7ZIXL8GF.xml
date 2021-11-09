@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="28420770QTKOR0SP6ANVR9NF7ZIXL8GF">
+            <Numero>2</Numero>
+            <CodigoVerificacao>9OLZYSZ6G</CodigoVerificacao>
+            <DataEmissao>2021-11-04T15:30:02</DataEmissao>
+            <OutrasInformacoes>Val. Aprox. Tributos:
+Motivo Cancelamento: Valor errado</OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>6000.00</BaseCalculo>
+                <Aliquota>1.0</Aliquota>
+                <ValorIss>60.00</ValorIss>
+                <ValorLiquidoNfse>6000.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>43686904000125</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>743989</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>P. L. DE SOUSA PROGRAMACOES LTDA</RazaoSocial>
+                <NomeFantasia></NomeFantasia>
+                <Endereco>
+                    <Endereco>  OSWALDO GARAVINI</Endereco>
+                    <Numero>512</Numero>
+                    <Complemento></Complemento>
+                    <Bairro>VEREADOR JOÃO LUIZ DE VICENTE</Bairro>
+                    <CodigoMunicipio>3507803</CodigoMunicipio>
+                    <Uf>SP</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>14340000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>(16) 9915-60545</Telefone>
+                    <Email>comercial@contabiladami.com.br</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>3507803</CodigoMunicipio>
+                <Uf>SP</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2021-11-04</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>6000.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>60.00</ValorIss>
+                            <Aliquota>1.0</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>01.01</ItemListaServico>
+                        <CodigoCnae>6202300</CodigoCnae>
+                        <CodigoTributacaoMunicipio>1000010000001</CodigoTributacaoMunicipio>
+                        <Discriminacao>desenvolvimento de aplicações-6000.0 </Discriminacao>
+                        <CodigoMunicipio>3507803</CodigoMunicipio>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>3507803</MunicipioIncidencia>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>43686904000125</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>743989</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>27208515000138</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>Redfox Solucoes Digitais LTDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>AV Ipiranga</Endereco>
+                            <Numero>104</Numero>
+                            <Complemento>Conj 71</Complemento>
+                            <Bairro>Republica</Bairro>
+                            <CodigoMunicipio>3550308</CodigoMunicipio>
+                            <Uf>SP</Uf>
+                            <Cep>01046010</Cep>
+                        </Endereco>
+                        <Contato/>
+                    </Tomador>
+                    <RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>1</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+    <NfseCancelamento versao="2.0">
+        <Confirmacao>
+            <Pedido>
+                <InfPedidoCancelamento>
+                    <IdentificacaoNfse>
+                        <Numero>2</Numero>
+                        <CpfCnpj>
+                            <Cnpj>27208515000138</Cnpj>
+                        </CpfCnpj>
+                        <CodigoMunicipio>3507803</CodigoMunicipio>
+                    </IdentificacaoNfse>
+                </InfPedidoCancelamento>
+                <ns2:Signature/>
+            </Pedido>
+            <DataHora>2021-11-05T12:01:06</DataHora>
+        </Confirmacao>
+        <ns2:Signature/>
+    </NfseCancelamento>
+</CompNfse>

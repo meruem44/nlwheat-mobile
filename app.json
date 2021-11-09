@@ -1,11 +1,15 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "nlwheatapp",
+    "slug": "nlwheatapp",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "scheme": "nlwheatapp",
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121214"
+    }
   },
-  "name": "mobile"
+  "name": "nlwheatapp"
 }
